@@ -9,3 +9,13 @@
   "welcome_message": "Witamy",
   "intro_text": "To jest przykład przetłumaczonego tekstu."
 }
+
+// en/translation.json
+{
+  "date_format": "{{date, MMMM Do YYYY}}"
+}
+
+// pl/translation.json
+{
+  "date_format": "{{date, DD MMMM YYYY}}"
+}
