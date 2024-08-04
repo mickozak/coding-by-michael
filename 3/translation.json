@@ -1,0 +1,11 @@
+// en/translation.json
+{
+  "welcome_message": "Welcome",
+  "intro_text": "This is an example of a translated text."
+}
+
+// pl/translation.json
+{
+  "welcome_message": "Witamy",
+  "intro_text": "To jest przykład przetłumaczonego tekstu."
+}
